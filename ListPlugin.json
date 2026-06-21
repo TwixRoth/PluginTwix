@@ -3,28 +3,19 @@
         {
             "name": "Advanced Chat Filter",
             "version": "2.1.0",
-            "description": "Фильтрует чат от спама, рекламы и нецензурных выражений. Поддерживает регулярные выражения и пользовательские правила.",
+            "description": "Фильтрует чат от спама и рекламы. Поддерживает регулярные выражения.",
             "preview": "https://github.com/TwixRoth/PluginTwix/blob/main/maxresdefault.jpg?raw=true",
-            "download_url": "https://github.com/TwixRoth/PluginTwix/releases/download/v1/chatfilter.zip",
+            "folder_url": "https://github.com/TwixRoth/PluginTwix/tree/main/Plugin1",
             "size": "2.4 MB",
             "author": "TwixRoth"
         },
         {
             "name": "Auto Backup System",
             "version": "1.3.2",
-            "description": "Автоматическое резервное копирование конфигураций плагинов. Настраиваемое расписание и облачная синхронизация.",
+            "description": "Автоматическое резервное копирование конфигураций.",
             "preview": "https://i.imgur.com/example2.png",
-            "download_url": "https://github.com/TwixRoth/PluginTwix/releases/download/v1/backup.zip",
+            "folder_url": "https://github.com/TwixRoth/PluginTwix/tree/main/Plugin2",
             "size": "1.8 MB",
-            "author": "TwixRoth"
-        },
-        {
-            "name": "Performance Monitor",
-            "version": "3.0.1",
-            "description": "Мониторинг производительности системы в реальном времени. Графики CPU, RAM, GPU и температуры.",
-            "preview": "https://i.imgur.com/example3.png",
-            "download_url": "https://github.com/TwixRoth/PluginTwix/releases/download/v1/perfmon.zip",
-            "size": "4.2 MB",
             "author": "TwixRoth"
         }
     ]
