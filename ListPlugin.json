@@ -4,7 +4,7 @@
             "name": "Advanced Chat Filter",
             "version": "2.1.0",
             "description": "Фильтрует чат от спама, рекламы и нецензурных выражений. Поддерживает регулярные выражения и пользовательские правила.",
-            "preview": "https://img.magnific.com/free-photo/black-cat-crossing-neon-city-street_23-2152005296.jpg?semt=ais_hybrid&w=740&q=80",
+            "preview": "https://github.com/TwixRoth/PluginTwix/blob/main/maxresdefault.jpg?raw=true",
             "download_url": "https://github.com/TwixRoth/PluginTwix/releases/download/v1/chatfilter.zip",
             "size": "2.4 MB",
             "author": "TwixRoth"
